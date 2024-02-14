@@ -407,3 +407,7 @@ const toggleSound = () => {
   };
 };
 el.sound.addEventListener("click", toggleSound());
+
+window.addEventListener('DOMContentLoaded', (event) => {
+    alert('Dale Clic a las letras Please');
+  });

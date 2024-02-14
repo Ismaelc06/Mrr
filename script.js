@@ -17,4 +17,4 @@ function createHeart() {
 
   setTimeout(function() {
     window.location.href = "pages/pag.html"; // Cambia 'pag1.html' por la ruta de tu segunda página HTML
-  }, 70000); // 90000 milisegundos = 90 segundos
+  }, 30000); // 90000 milisegundos = 90 segundos
