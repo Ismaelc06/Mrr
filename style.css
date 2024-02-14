@@ -73,6 +73,16 @@ body {
   background-color: #333;
   border-radius: 35% 0 35% 0;
   text-align: center;
+  
+}
+#card #message img{
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 40% 0 40% 0;
+
 }
 #card #message h2 {
   font-size: 20px;
