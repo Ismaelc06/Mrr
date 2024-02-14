@@ -14,7 +14,7 @@ function createHeart() {
   
   // Lanzar corazones cada cierto intervalo de tiempo
   setInterval(createHeart, 300);
-/*
+
   setTimeout(function() {
     window.location.href = "pages/pag.html"; // Cambia 'pag1.html' por la ruta de tu segunda página HTML
-  }, 70000); // 90000 milisegundos = 90 segundos*/
+  }, 70000); // 90000 milisegundos = 90 segundos
